@@ -1,2 +1,0 @@
-# PHP-Calculator
-Calculator Assignment
